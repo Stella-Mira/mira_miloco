@@ -1,0 +1,27 @@
+{
+  "name": "mira_miloco",
+  "version": "1.0.2",
+  "description": "DSH Miloco 接管插件：通过 HTTP 连接本机小米 Miloco 后端（xiaomi-miloco），向 DSH agent 暴露米家 IoT 设备控制 / 摄像头感知 / 事件 / 身份 / 任务 / 规则 / 家庭画像 / 监控等全套 miloco_ MCP 工具",
+  "type": "module",
+  "main": "lib/index.js",
+  "files": [
+    "lib"
+  ],
+  "keywords": [
+    "dsh",
+    "deepseek-harness",
+    "cordis",
+    "plugin",
+    "miloco",
+    "xiaomi",
+    "mijia",
+    "miot",
+    "smart-home"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xhqm-xyz/PluginDSH.git",
+    "directory": "mira_miloco"
+  }
+}
